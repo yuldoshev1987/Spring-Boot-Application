@@ -921,7 +921,7 @@ This Project uses GitHub's integrated issue tracking system to record bugs and f
 
 ## The End
 
-In the end, I hope you enjoyed the application and find it useful, as I did when I was developing it to create a Spring Boot web application template with good/convenient practices for rapid prototyping. 
+In the end, I hope you enjoyed the application and find it useful, as I did when I was developing it to create a Spring Boot web application template with good/convenient practices for rapid prototyping.Thanks 
 
 If you would like to enhance, please: 
 
